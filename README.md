@@ -35,3 +35,7 @@ End-to-end data pipeline that extracts data from Google Sheets with Python, load
 Containerized data pipeline that extracts news data from an API and loads it into AWS S3 and Amazon Redshift for analytics.
 
 `Python` · `AWS S3` · `Amazon Redshift` · `Docker`
+
+### 🤝 Connect
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/payam-khoshhall/).
