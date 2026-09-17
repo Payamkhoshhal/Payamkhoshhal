@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Payam 👋
 
-<!--
-**Payamkhoshhal/Payamkhoshhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Engineer** working with Python, SQL, Apache Airflow, and AWS to build and maintain reliable data pipelines and cloud-based data solutions.
 
-Here are some ideas to get you started:
+My work includes pipeline development and orchestration, SQL and database optimization, API integrations, infrastructure as code, and CI/CD automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Data Engineering & Orchestration**  
+Python · SQL · Apache Airflow · REST APIs
+
+**Cloud & Infrastructure**  
+AWS (S3, EC2, Lambda, RDS) · Terraform
+
+**Databases**  
+Oracle · SQL Server · PostgreSQL · Amazon Redshift
+
+**Engineering Tools**  
+Git · GitHub · GitHub Actions · Docker · CI/CD
+
+### 📚 Previous Experience
+
+I've also worked with Azure, Teradata, Oracle Data Integrator (ODI), SSIS, and C#.
